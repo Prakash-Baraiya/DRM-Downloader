@@ -16,15 +16,15 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token from @botfather, as a string.",
-      "value": ""
+      "value": "5425511555:AAHPkPLHFRxhr0oQlb9nlpEKzNMtNX1F9Zw"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "11983148"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "1168e573def0c74a7e6e68dae9313c68"
     },
     "SCREENSHOTS": {
       "description": "Generate screenshots for file after uploading ( True or false )",
@@ -33,7 +33,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "680815375"
+      "value": "1937944551"
     },
     "BANNED_USERS": {
       "description": "Ban Unwanted members..",
