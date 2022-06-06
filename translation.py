@@ -6,9 +6,6 @@ I am a Telegram Uploader Bot! Developed by Dr.Caduceus and TroJanzHEX
 
 <b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 
-/help for more details..
-
-
 """
 
     HELP_USER = """Hai I'am a URL Uploader bot..
